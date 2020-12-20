@@ -1,0 +1,43 @@
+h1{color: aqua;}
+    h1{font-size: 200%}
+    footer{color: palevioletred;}
+    h2{color: darkgoldenrod;
+    background-color: black;}
+    h3{color: darksalmon;
+    background-color: cornsilk;}
+    h4{color: deepskyblue;
+    background-color: crimson;}
+    body{background-color:grey;}
+    li{font-size: 200%;
+
+    }
+ 
+p{font-size: 150% }
+p{color: aqua;}
+
+   img {
+float: left;
+
+   }
+    
+
+
+
+
+
+
+
+    /* .container {
+        width: 50%;
+        height: 15rem;}
+        .clearfix {
+            overflow: auto;}
+           
+
+            .float-right {
+                float: right;
+                width: 300px;
+                height: 200px;
+                background-color: red;
+                margin: 0 0 0.5rem 0.5rem}
+                 */
